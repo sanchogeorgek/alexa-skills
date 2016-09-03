@@ -1,0 +1,17 @@
+GetNewFactIntent a fact
+GetNewFactIntent a pineapple fact
+GetNewFactIntent tell me a fact about pineapples
+GetNewFactIntent tell me a fun fact about pineapples
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a fun fact
+GetNewFactIntent tell me a pineapple fact
+GetNewFactIntent tell me a fun pineapple fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a fun fact
+GetNewFactIntent give me a pineapple fact
+GetNewFactIntent give me a fact about pineapples
+GetNewFactIntent give me a fun fact about pineapples
+GetNewFactIntent give me some information
+GetNewFactIntent give me some information about pineapples
+GetNewFactIntent tell me something
+GetNewFactIntent tell me something about pineapples

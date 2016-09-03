@@ -1,0 +1,38 @@
+GetNewFactIntent a fact
+GetNewFactIntent a keto fact
+GetNewFactIntent a ketosis fact
+GetNewFactIntent a ketogenic fact
+GetNewFactIntent a keto diet fact
+GetNewFactIntent a ketogenic diet fact
+GetNewFactIntent tell me a fact about Keto
+GetNewFactIntent tell me a fact about Ketosis
+GetNewFactIntent tell me a fact about the Keto Diet
+GetNewFactIntent tell me a fact about the Ketogenic Diet
+GetNewFactIntent tell me a fun fact about Keto
+GetNewFactIntent tell me a fun fact about Ketosis
+GetNewFactIntent tell me a fun fact about the Keto Diet
+GetNewFactIntent tell me a fun fact about the Ketogenic Diet
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a keto fact
+GetNewFactIntent tell me a ketosis fact
+GetNewFactIntent tell me a ketogenic fact
+GetNewFactIntent tell me a keto diet fact
+GetNewFactIntent tell me a ketogenic diet fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a keto fact
+GetNewFactIntent give me a ketosis fact
+GetNewFactIntent give me a ketogenic fact
+GetNewFactIntent give me a keto diet fact
+GetNewFactIntent give me a ketogenic diet fact
+GetNewFactIntent give me some information
+GetNewFactIntent give me some information about keto
+GetNewFactIntent give me some information about ketosis
+GetNewFactIntent give me some information about keto diets
+GetNewFactIntent give me some information about ketogenic diets
+GetNewFactIntent tell me something
+GetNewFactIntent tell me something about keto
+GetNewFactIntent tell me something about ketosis
+GetNewFactIntent tell me something about the keto diet
+GetNewFactIntent tell me something about the ketogenic diet
+GetNewFactIntent tell me something about keto diets
+GetNewFactIntent tell me something about ketogenic diets
